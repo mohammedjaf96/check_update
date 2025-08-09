@@ -1,4 +1,4 @@
-# check_update
+# check_new_version
 
 Flutter package to check for app updates
 A simple and efficient way to determine if the current app version is lower than the required version, allowing you to prompt users to update the app or redirect them to the store automatically.
@@ -30,7 +30,7 @@ import 'package:live_location_plus/live_location_plus.dart';
 ## Usage/Examples
 
 ```dart
-import 'package:check_update/check_update.dart';
+import 'package:check_new_version/check_update.dart';
 
 Future<void> main() async {
   CheckUpdateService checkUpdateService = CheckUpdateService();

@@ -1,6 +1,6 @@
 
 
-import 'package:check_update/check_update.dart';
+import 'package:check_new_version/check_new_version.dart';
 
 Future<void> main() async {
   CheckUpdateService checkUpdateService = CheckUpdateService();
