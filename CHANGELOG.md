@@ -11,3 +11,8 @@
 ## 0.0.3
 
 - Fix some issues.
+
+
+## 0.0.4
+
+- Fix some issues.
