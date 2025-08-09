@@ -7,3 +7,7 @@
 
 - Added improvements and bug fixes for update checking.
 - Optimized version comparison logic.
+
+## 0.0.3
+
+- Fix some issues.
