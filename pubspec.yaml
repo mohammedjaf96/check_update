@@ -1,6 +1,6 @@
 name: check_new_version
 description: "Flutter package to check for app updates"
-version: 0.0.4
+version: 0.0.5
 homepage: https://github.com/mohammedjaf96/check_update.git
 repository: https://github.com/mohammedjaf96/check_update.git
 

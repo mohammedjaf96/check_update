@@ -16,3 +16,6 @@
 ## 0.0.4
 
 - Fix some issues.
+## 0.0.5
+
+- Fix some issues.

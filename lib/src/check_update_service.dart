@@ -6,7 +6,7 @@ class CheckUpdateService {
 
   Future<String> getCurrentAppVersion() async {
     PackageInfo packageInfo = await PackageInfo.fromPlatform();
-    return packageInfo.version;
+    return packageInfo.version.replaceAll(RegExp(r'[^0-9.]'), '');
   }
 
   List<int> splitVersion(String version){
